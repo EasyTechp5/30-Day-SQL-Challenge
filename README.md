@@ -6,4 +6,4 @@ Welcome to the 30-Day SQL Challenge!
 
 # Question 1: *using the movie data, write a query to show the titles and movies released in 2017 whose vote count is more than 15 and runtime more than 100*
 
-!()[30.1.png]
+![](30.1.png)
